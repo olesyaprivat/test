@@ -1,6 +1,6 @@
 
 
-function aaa(x, y) {
+function createGread(x, y) {
     let myMatrix = matrixArray(x,y);
     // let myMatrix = [[0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 1, 1, 1, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0]];
     drowHtml(myMatrix);
